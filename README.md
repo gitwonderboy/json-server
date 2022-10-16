@@ -1,6 +1,5 @@
 # json-server
 How to create a simple json file that can be used as a database.
-----------------------------------------------------------------
 
 1. Querying a list of items
 2. Querying by id
